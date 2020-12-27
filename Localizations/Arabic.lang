@@ -62,7 +62,7 @@
 	newFile = "ملف",
 	newFileFromURL = "ملف من URL",
 	newImage = "Image",
-	newApplication = "تطبيق MineOS",
+	newApplication = "تطبيق TestOS",
 	paste = "لصق",
 	copy = "نسخ",
 	cut = "قص",

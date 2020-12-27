@@ -62,7 +62,7 @@
 	newFile = "Arquivo",
 	newFileFromURL = "Arquivo de URL",
 	newImage = "Imagem",
-	newApplication = "Aplicativo MineOS",
+	newApplication = "Aplicativo TestOS",
 	paste = "Colar",
 	copy = "Copiar",
 	cut = "Recortar",

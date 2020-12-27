@@ -64,7 +64,7 @@
 	newFile = "Tiedosto",
 	newFileFromURL = "Tiedosto verkosta",
 	newImage = "Kuva",
-	newApplication = "MineOS-sovellus",
+	newApplication = "TestOS-sovellus",
 	paste = "Liitä",
 	copy = "Kopioi",
 	cut = "Leikkaa",
